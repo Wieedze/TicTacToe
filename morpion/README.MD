@@ -1,5 +1,5 @@
 # morpion 
-Eng Presentation
+Presentation
 This project is a Tic-Tac-Toe game developed in Ruby as part of my training at The Hacking Project. It allows two players to take turns until a winner is determined or the game ends in a draw.
 
 Features
